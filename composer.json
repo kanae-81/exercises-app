@@ -1,0 +1,15 @@
+{
+    "name": "kanae/exercises-app",
+    "autoload": {
+        "psr-4": {
+            "Kanae\\ExercisesApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kanae-81",
+            "email": "kanae.jp81@gmail.com"
+        }
+    ],
+    "require": {}
+}
